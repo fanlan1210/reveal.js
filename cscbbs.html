@@ -1,0 +1,134 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title>CSC BBS</title>
+
+		<link rel="stylesheet" href="css/reveal.css">
+		<link rel="stylesheet" href="css/theme/black.css">
+
+		<!-- Theme used for syntax highlighting of code -->
+		<link rel="stylesheet" href="lib/css/zenburn.css">
+
+		<!-- Printing and PDF exports -->
+		<script>
+			var link = document.createElement( 'link' );
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
+			document.getElementsByTagName( 'head' )[0].appendChild( link );
+		</script>
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+				<section>
+                    <h1>二串電研BBS</h1>
+                    <h2>迷幻國度</h2>
+                    <h3>現況與未來</h3>
+                </section>
+                <section>
+                    <h3>歷史</h3>
+                    <table>
+                        <thead>
+                            <tr>
+                                <th>日期</th>
+                                <th>事紀</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>~2002</td>
+                                <td>迷幻國度建立</td>
+                            </tr>
+                            <!--tr>
+                                <td>~2010</td>
+                                <td>青橄欖關站</td>
+                            </tr-->
+                            <tr>
+                                <td>2011.06</td>
+                                <td>青橄欖併入迷幻，重灌主機作業系統，迷幻BBS更新</td>
+                            </tr>
+                            <tr>
+                                <td>2012.02.01</td>
+                                <td>資料合併成功</td>
+                            </tr>
+                            <tr>
+                                <td>2013</td>
+                                <td>資料備份、主機重灌，BBS無法使用，19th網管wandsl進行修復</td>
+                            </tr>
+                            <tr>
+                                <td>2013~201?</td>
+                                <td>修復工作進行中</td>
+                            </tr>
+                            <tr>
+                                <td>2016</td>
+                                <td>磁碟格式化，BBS資料全數遺失</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </section>
+                <section>
+                    <section>
+                        <h3>迷幻原站環境</h3>
+                        <h4>作業系統</h4>
+                        <p>Gentoo</p>
+                        <h4>BBS Server</h4>
+                        <p>MapleBBS-itoc</p>
+                    </section>
+                    <section>
+                        <h3>迷幻新站環境(預定)</h3>
+                        <h4>作業系統</h4>
+                        <p><a href="https://www.debian.org">Debian</a></p>
+                        <h4>BBS Server</h4>
+                        <p><a href="https://github.com/ptt/pttbbs">PttBBS</a></p>
+                    </section>
+		        </section>
+                <section>
+                    <h3>切換環境之原因</h3>
+                    <h4>作業系統—Debian</h4>
+                    <ul>
+                        <li>易上手</li>
+                        <li>為目前PTT BBS使用之系統</li>
+                    </ul>
+                    <h4>BBS Server—pttbbs</h4>
+                    <ul>
+                        <li>為PTT的開源Server</li>
+                        <li>經常更新</li>
+                        <li>較為多功能</li>
+                        <li>較易實現安全連線</li>
+                    </ul>
+                </section>
+                <section>
+                    <h3>未來展望</h3>
+                    <ol>
+                        <li>回復並轉換迷幻國度與青橄欖資料進PTTBBS</li>
+                        <li>延續前管理制度</li>
+                        <li>實現SSH<strike>(二中)</strike>加密連線功能</li>
+                        <li>推廣BBS</li>
+                    </ol>
+                </section>
+			</div>
+		</div>
+
+		<script src="lib/js/head.min.js"></script>
+		<script src="js/reveal.js"></script>
+
+		<script>
+			// More info about config & dependencies:
+			// - https://github.com/hakimel/reveal.js#configuration
+			// - https://github.com/hakimel/reveal.js#dependencies
+			Reveal.initialize({
+                transition: 'convex',
+				dependencies: [
+					{ src: 'plugin/markdown/marked.js' },
+					{ src: 'plugin/markdown/markdown.js' },
+					{ src: 'plugin/notes/notes.js', async: true },
+					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } }
+				]
+			});
+		</script>
+	</body>
+</html>
