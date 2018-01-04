@@ -58,9 +58,10 @@ adv.垂直地
 
 Ex: The human brain is divided **vertically** down the middle into two hemispheres.
 
-- 補充:vertical (adj.) 垂直的,豎立的,頂點的
+人腦從中央垂直地分為兩半球
 
-- 反義:horizontal (adj.) 水平的,地平線的
+- 補充:vertical (adj.) 垂直的,豎立的,頂點的 <br>
+  反義:horizontal (adj.) 水平的,地平線的
 
 --
 
