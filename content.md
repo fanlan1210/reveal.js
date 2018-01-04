@@ -45,7 +45,7 @@ Ex: The government is planning to **introduce** the bill at the next session of 
 
 政府正計畫下一次會議期間介紹該議案。
 
-補充:introduction (n.) 介紹,引言,採用,新採用的東西
+- 補充:introduction (n.) 介紹,引言,採用,新採用的東西
 
 --
 
@@ -58,9 +58,9 @@ adv.垂直地
 
 Ex: The human brain is divided **vertically** down the middle into two hemispheres.
 
-補充:vertical (adj.) 垂直的,豎立的,頂點的
+- 補充:vertical (adj.) 垂直的,豎立的,頂點的
 
-反義:horizontal (adj.) 水平的,地平線的
+- 反義:horizontal (adj.) 水平的,地平線的
 
 --
 
@@ -85,7 +85,7 @@ Ex: The criminal pushed a **pedestrian** down and ran away.
 
 How much money will the person who is caught looking at the smartphone more than once be fined in Hawaii ?
 
-A:$100 (100 USD)
+A: $100 (100 USD) <!-- .element: class="fragment" -->
 
 --
 
@@ -93,7 +93,7 @@ A:$100 (100 USD)
 
 A company invented the software, and how does this kind of software handle the problem of "smartphone zombies" ?
 
-A:The app uses phone's camera to show users what's in front of them.
+A: The app uses phone's camera to show users what's in front of them. <!-- .element: class="fragment" -->
 
 --
 
@@ -101,19 +101,19 @@ A:The app uses phone's camera to show users what's in front of them.
 
 What kind of the way is planned to warn people about the danger of using smartphone while walking in Taichung?
 
-A: paintting signs on the ground
+A: Painting signs on the ground. <!-- .element: class="fragment" -->
 
 ---
 
 ## Group Ovaltine
- Overview:
+**Overview:** SONG,HONG-MIN(宋竑旻)
 
-Presentation:
+**Presentation:** ZHANG,ZHI-REN(張智仁)
 
- Presenter:
+**Presenter:** XIAO,ZHI-REN(蕭智仁)
 
- Question:
+**Question:** SONG,HONG-MIN(宋竑旻)
 
- Reflection:
+**Reflection:** LI,CHENG-EN(李承恩)
 
- Vocabulary:
+**Vocabulary:** WANG,YU-CHENG(王御誠)
