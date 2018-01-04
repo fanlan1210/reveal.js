@@ -4,6 +4,13 @@
 
 ## Overview
 
+In this era of rapid technological change, people walking on the road can see a cell phone everywhere, and these people are often walking while staring at their cell phones rickety like zombies, so these people are called " Smartphone Zombie ".
+
+--
+
+While these acts of zombies have endangered the surroundings and their own security, many countries (governments) have begun to attach importance to such issues.
+
+Some governments have adopted a penalty system and some have set up such groups of zombies to prevent the zombies from causing them.  But even with so many measures still can not completely prevent the occurrence of danger.  Only people's own self-control ability to get rid of this point.
 
 ---
 
@@ -28,23 +35,45 @@ I think maybe some people will notice those signs, but they may not stop using i
 --
 
 ### introduce
+/ɪntrəˈdjuːs/
+
+*Bring (something, especially a product, measure, or concept) into use or operation for the first time.*
+
 vt.提出介紹
 
-ex: The government is planning to introduce the bill at the next session of parliament.
+Ex: The government is planning to **introduce** the bill at the next session of parliament.
+
+政府正計畫下一次會議期間介紹該議案。
+
+補充:introduction (n.) 介紹,引言,採用,新採用的東西
 
 --
 
 ### vertically
+/ˈvəːtɪkli/
+
+*At right angles to a horizontal plane; aligned in such a way that the top is directly above the bottom.*
+
 adv.垂直地
 
-ex: Modern technology firms are much less vertically integrated.
+Ex: The human brain is divided **vertically** down the middle into two hemispheres.
+
+補充:vertical (adj.) 垂直的,豎立的,頂點的
+
+反義:horizontal (adj.) 水平的,地平線的
 
 --
 
 ### pedestrian
+/pɪˈdɛstrɪən/
+
+*A person walking rather than travelling in a vehicle.*
+
 n.行人
 
-ex: The criminal pushed a pedestrian down and ran away.
+Ex: The criminal pushed a **pedestrian** down and ran away.
+
+罪犯推倒了一個行人後逃跑了。
 
 ---
 
@@ -54,14 +83,25 @@ ex: The criminal pushed a pedestrian down and ran away.
 
 ### Q1
 
+How much money will the person who is caught looking at the smartphone more than once be fined in Hawaii ?
+
+A:$100 (100 USD)
+
 --
 
 ### Q2
+
+A company invented the software, and how does this kind of software handle the problem of "smartphone zombies" ?
+
+A:The app uses phone's camera to show users what's in front of them.
 
 --
 
 ### Q3
 
+What kind of the way is planned to warn people about the danger of using smartphone while walking in Taichung?
+
+A: paintting signs on the ground
 
 ---
 
