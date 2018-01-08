@@ -86,7 +86,7 @@ Ex: The criminal pushed a **pedestrian** down and ran away.
 
 How much money will the person who is caught looking at the smartphone more than once be fined in Hawaii ?
 
-A: $100 (100 USD) <!-- .element: class="fragment" -->
+<span style="color:red">A: $100 (100 USD)</span> <!-- .element: class="fragment" -->
 
 --
 
@@ -94,7 +94,7 @@ A: $100 (100 USD) <!-- .element: class="fragment" -->
 
 A company invented the software, and how does this kind of software handle the problem of "smartphone zombies" ?
 
-A: The app uses phone's camera to show users what's in front of them. <!-- .element: class="fragment" -->
+<span style="color:red">A: The app uses phone's camera to show users what's in front of them.</span> <!-- .element: class="fragment" -->
 
 --
 
@@ -102,7 +102,7 @@ A: The app uses phone's camera to show users what's in front of them. <!-- .elem
 
 What kind of the way is planned to warn people about the danger of using smartphone while walking in Taichung?
 
-A: Painting signs on the ground. <!-- .element: class="fragment" -->
+<span style="color:red">A: Painting signs on the ground.</span> <!-- .element: class="fragment" -->
 
 ---
 
