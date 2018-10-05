@@ -30,6 +30,7 @@
 
 少部分的標籤會單獨存在
 ```
+<br >
 <br />
 ```
 
@@ -95,7 +96,7 @@ html
 ---
 
 ### 連結檔案套用
-```
+```html
 <head>
     <link rel="stylesheet" type="text/css" href="theme.css">
 </head>
@@ -167,7 +168,7 @@ Github Pages是利用儲存庫裡的檔案，建立網站的功能。
 儲存庫(repository)在這裡是指在儲存上的的資料結構，
 可以暫時想像成一個儲存空間。
 
-* 使用網站的新增功能，建立一個儲存庫<!--(記得勾選用README初始化)-->
+* 使用網站的新增功能，建立一個儲存庫(記得勾選用README初始化)
 * 儲存庫名字填"*使用者名稱.github.io*"
 
 ---
@@ -180,3 +181,12 @@ Github Pages是利用儲存庫裡的檔案，建立網站的功能。
 
 ## 網站發佈
 在瀏覽器輸入自己網站的網址(儲存庫名稱)，看到自己的網站，完成!
+
+----
+
+## 學習資源
+<div style="margin:0px auto;text-align:center;">
+<img src="./files/web-tutorial_qrcode.png"><br>本教學簡報</div>
+
+[教學講義](https://github.com/fanlan1210/website-tutorial)
+[網頁模板](https://html5up.net)
