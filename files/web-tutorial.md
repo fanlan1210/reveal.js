@@ -128,6 +128,7 @@ CSS語法:
 ### 文字樣式
 * color: 文字/前景 顏色
 * font-size: 文字大小，單位習慣用"像素"(px,pixel)
+* font-align:文字對齊
 
 ---
 
