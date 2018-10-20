@@ -128,8 +128,8 @@ html
 
 ---
 
+### CSS語法
 ```
-CSS語法:
 	選擇器(selector) {
 		屬性(property) : 值(value);
 }
