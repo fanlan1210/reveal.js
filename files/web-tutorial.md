@@ -1,3 +1,7 @@
+## 網頁與簡易架站入門
+
+----
+
 ## 軟體介紹:Adobe Brackets
 * 由HTML,CSS和JavaScript編寫的HTML編輯器
 * 可即時預覽網頁
@@ -29,10 +33,11 @@
 ```
 
 少部分的標籤會單獨存在
-```
+```html
 <br >
-<br />
+<br /> 
 ```
+
 
 ----
 
@@ -40,7 +45,7 @@
 
 ----
 
-我們可以將HTML網頁的結構，想像成一個人
+我們可以將HTML網頁的結構，想像成一個人的架構
 ```none
 html
   - head
@@ -55,6 +60,14 @@ html
 
 ----
 
+## 網頁文件標題
+這裡指分頁標籤會顯示的文字部分，放置於`<head>`裡
+```html
+    <title>你可以在瀏覽器上頭的標籤看到我</title>
+```
+
+---
+
 ### 文字排印(Typography)
 
 `<h1>` ~ `<h6>` : 標題(heading)
@@ -64,7 +77,7 @@ html
 ---
 
 ### 圖片
-```
+```html
 <img src="#">
 ```
 * *src* : 來源(source)，必須是直接連結至檔案本身
@@ -89,7 +102,7 @@ html
 ----
 
 ### 標籤內套用
-```
+```html
 <p style=”...”> .....
 ```
 
@@ -189,5 +202,5 @@ Github Pages是利用儲存庫裡的檔案，建立網站的功能。
 <div style="margin:0px auto;text-align:center;">
 <img src="./files/web-tutorial_qrcode.png"><br>本教學簡報</div>
 
-[教學講義](https://github.com/fanlan1210/website-tutorial)
+[教學講義](https://github.com/fanlan1210/website-tutorial)&nbsp;
 [網頁模板](https://html5up.net)
