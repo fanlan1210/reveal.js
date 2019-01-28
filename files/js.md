@@ -60,6 +60,7 @@
 ### console.log("hello world")
 
 * 用來在主控台顯示文字用的函數
+
 ```js
 console.log("hello world");
 ```
@@ -68,6 +69,7 @@ console.log("hello world");
 
 ### 彈窗提示: alert()
 * 直接地顯示訊息
+
 ```js
 alert("hello world");
 ```
@@ -76,6 +78,7 @@ alert("hello world");
 
 ### 彈窗輸入: prompt()
 * 提示使用者輸入文字
+
 ```js
 prompt("type in something");
 ```
@@ -84,6 +87,7 @@ prompt("type in something");
 
 ### 宣告變數: var
 * 記憶某些訊息(例如使用者輸入的文字)
+
 ```js
 var x = 10;
 var y = 0.5;
@@ -112,15 +116,15 @@ else { 陳述句; }
 A 條件運算子 B
 ```
 常見的條件運算子：
-* `>`(大於)
-* `<`(小於)
-* `>=`(大於等於)
-* `<=`(小於等於)
-* `==`(等於)
+* `>` (大於)
+* `<` (小於)
+* `>=` (大於等於)
+* `<=` (小於等於)
+* `==` (等於)
 
 條件：
-成立:*真(true)*
-不成立:*假(false)*
+* 成立:*真(true)*
+* 不成立:*假(false)*
 
 ---
 #### if程式練習
