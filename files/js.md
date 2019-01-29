@@ -9,9 +9,9 @@
 ### Adobe Brackets
 
 ![](https://upload.wikimedia.org/wikipedia/commons/b/b0/Adobe_Brackets_v0.0.x_icon.png)
-* 由HTML,CSS和JavaScript編寫的HTML編輯器
+* 由HTML、CSS和JavaScript編寫的HTML編輯器
 * 可即時預覽網頁
-* 跨平台(Windows,Mac OS,Linux)
+* 跨平台(Windows、macOS、Linux)
 
 ----
 
@@ -21,7 +21,7 @@
 
 ## 基本介紹
 * **JavaScript**，通常縮寫為**JS**
-* 它被世界上的絕大多數網站所使用，也被現代的網頁瀏覽器所支援。
+* 它被世界上的絕大多數網站所使用，也被現代的網頁瀏覽器所支援
 
 ----
 
@@ -47,9 +47,9 @@
 ```html
 <script src="example.js"></script>
 ```
-* *src* : 檔案來源(source)
+* *src*：檔案來源(source)
 
-**注意:** 採用此種方式，`<script>`標籤內的任何文字將會失效
+**注意：** 採用此種方式，`<script>`標籤內的任何文字將會失效
 
 ----
 
@@ -67,7 +67,7 @@ console.log("hello world");
 
 ---
 
-### 彈窗提示: alert()
+### 彈窗提示：alert()
 * 直接地顯示訊息
 
 ```js
@@ -76,7 +76,7 @@ alert("hello world");
 
 ---
 
-### 彈窗輸入: prompt()
+### 彈窗輸入：prompt()
 * 提示使用者輸入文字
 
 ```js
@@ -85,7 +85,7 @@ prompt("type in something");
 
 ----
 
-### 宣告變數: var
+### 宣告變數：var
 * 記憶某些訊息(例如使用者輸入的文字)
 
 ```js
@@ -96,7 +96,7 @@ var message = "Hi!";
 
 ----
 
-### 條件判斷:if
+### 條件判斷：if
 * 當程式需要進行判斷時，就會使用到if語句
 
 ---
@@ -104,13 +104,13 @@ var message = "Hi!";
 #### if的基本語法
 ```js
 if (條件式){
-  陳述句;
+  ...
 }
 else if (條件式){
-  陳述句;
+  ...
 }
 else {
-  陳述句;
+  ...
 }
 ```
 * 基本上該語法幾乎類於C/C++
@@ -132,8 +132,8 @@ A 條件運算子 B
 ---
 
 #### 條件式
-* 成立:*真(true)*
-* 不成立:*假(false)*
+* 成立：*真(true)*
+* 不成立：*假(false)*
 
 ---
 #### if程式練習
@@ -144,13 +144,13 @@ A 條件運算子 B
 ### 副程式(函式)的使用:function
 * 大程式中，可以再切分出許多小程式
 * 通常每個小程式各只負責一個任務
-* 又可稱為副程式。
+* 又可稱為副程式
 
 ---
 
 #### function的基本語法
 ```js
-function 名稱(傳入變數1,傳入變數2...){
+function 名稱(傳入變數1, 傳入變數2...){
     程式碼...
     return 值;
 }
@@ -160,7 +160,7 @@ function 名稱(傳入變數1,傳入變數2...){
 
 ##### 使用語法範例
 ```js
-函式名稱(變數A,變數B...);
+函式名稱(變數A, 變數B...);
 ```
 
 ---
@@ -215,14 +215,14 @@ var computer = Math.random();
 
 ----
 
-### git簡介
-git是一個版本控制軟體，我們可以使用git方便進行專案的管理與追蹤，
+### Git簡介
+Git是一個版本控制軟體，我們可以使用git方便進行專案的管理與追蹤，
 如檔案變更、紀錄等。
 
 ---
 
-### github簡介
-git會需要儲存庫，來進行檔案的儲存，
+### Github簡介
+Git會需要儲存庫，來進行檔案的儲存，
 而Github就提供了線上的儲存庫代管服務，
 類似於雲端硬碟的概念。
 
@@ -251,9 +251,13 @@ git會需要儲存庫，來進行檔案的儲存，
 ----
 
 ## 網站發佈
-在瀏覽器輸入自己網站的網址(儲存庫名稱)，看到自己的網站，完成!
+在瀏覽器輸入自己網站的網址(儲存庫名稱)，看到自己的網站，完成！
 
 ----
 
-# 資源
+# 學習資源
+<div style="margin:0px auto;text-align:center;">
+<img src="./files/javascript_qrcode.png"><br>本教學簡報</div>
+
 * [實作範例網頁](rock-paper-scissors.html)
+* [教學講義](https://fanlan1210.github.io/website-tutorial/javascript)
